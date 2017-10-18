@@ -1,0 +1,12 @@
+{
+  "data":{
+    "orderCountToday":10,
+    "orderConfirmed":11,
+    "orderWaitForConfirmed":5,
+    "orderCanceled":10,
+    "payAmount":30000,
+    "onlinePayAmount":10000,
+    "offlinePayAmount":20000
+  },
+  "status":1
+}
