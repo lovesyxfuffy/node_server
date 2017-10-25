@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": 1,
+    "name": "yujingyang",
+    "idcard": "111111",
+    "telephone": "12345678",
+    "classTypeStr": "C2",
+    "statusStr": "已通知科目二考试"
+  },
+  "status": 1
+}
